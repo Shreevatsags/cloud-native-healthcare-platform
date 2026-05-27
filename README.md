@@ -3,6 +3,6 @@
  ## Features
  ## Architecture
  ## Tech Stack
- Installation
+ ## Installation
  Deployment
  CI/CD Pipeline
